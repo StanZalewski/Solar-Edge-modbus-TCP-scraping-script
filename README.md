@@ -1,8 +1,8 @@
-# Solar Edge modbus TCP scraping script 
-This repo contains code for scraping data from Solar Edge inverter using modbus TCP protocol with saving the data to the Prometheus database using push_to_gateway.
+# Solar Edge Modbus TCP scraping script 
+This repo contains code for scraping data from Solar Edge inverter using Modbus TCP protocol with saving the data to the Prometheus database using push_to_gateway.
 The file run.py is used for opening the virtual python script and control of basic setup like enabling the
 - display (to check if data pulled from inverter is correct)
-- enabling/disabling the use of additional Solar Edge meter that is connected via modbus to the inverter as in configuration
+- enabling/disabling the use of additional Solar Edge meter that is connected via Modbus to the inverter as in configuration
 ### The scraper.py file scrapes the following information from inverter:
 ##### Data from inverter
 - Status of inverter [40084]
