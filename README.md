@@ -14,4 +14,6 @@ The file run.py is used for opening the virtual python script and control of bas
 - Power factor [40226]
 - Total exported real energy [40227]
 - Total imported real energy [40235]
-### To extend the scraping script the registers are available in a [Technical note from SolarEdge](https://knowledge-center.solaredge.com/sites/kc/files/sunspec-implementation-technical-note.pdf) starting from page 17.
+#### To extend the scraping script the registers are available in a [Technical note from SolarEdge](https://knowledge-center.solaredge.com/sites/kc/files/sunspec-implementation-technical-note.pdf) starting from page 17.
+## License
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE.md) file for details.
