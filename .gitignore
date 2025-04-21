@@ -1,0 +1,8 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Optional:
+.env
+.DS_Store
